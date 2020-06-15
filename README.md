@@ -2,5 +2,3 @@
 后端使用java,ssm框架，前端使用jsp，bootstrap，数据库使用mysql  
 前端参考了其他博主  
 目前页面看起来还是比较简陋的  
-
-![image](https://github.com/851424486/blog/blob/master/1.png)
